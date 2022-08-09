@@ -231,3 +231,21 @@ main {
         margin: 10vh auto;
     }
 }
+.alterar {
+    margin: 1em;
+    width: 200px;
+    padding: 10px;
+    background: var(--main-branco);
+    font-size: 15px;
+    cursor: pointer;
+   
+}
+
+.botoes {
+    position: relative;
+    bottom: 5%;
+    left: 30px;
+    bottom: 30px;
+    display: flex;
+    
+}
