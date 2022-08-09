@@ -238,7 +238,12 @@ main {
     background: var(--main-branco);
     font-size: 15px;
     cursor: pointer;
+    border: var(--main-branco);
    
+}
+.alterar:hover {
+    background: var(--main-preto);
+    color: var(--main-branco)
 }
 
 .botoes {
